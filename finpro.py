@@ -19,7 +19,7 @@ if selected=='Dashboard':
     <br> Menggunakan data historis dan model prediksi untuk memperkirakan jumlah emisi karbon yang akan dihasilkan oleh berbagai sektor di Rwanda pada tahun 2022 dan pada tahun ke depannya.
     <br>
 
-    <b>2. Menganalisis Faktor Penyebab Emisi</b>
+    <b>2. Menganalisis Faktor Penyebab Emisi </b>
     <br>
     Mengidentifikasi faktor-faktor utama yang berkontribusi terhadap emisi karbon di Rwanda, termasuk sektor transportasi, industri, pertanian, dan penggunaan lahan.
     <br>
